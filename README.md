@@ -1,15 +1,16 @@
+# 👋 Hi There!
+
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whiez)
+[![Facebook](https://img.shields.io/badge/Facebook-1DA1f2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079592343763)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/09_hyunwoo/)
+
+I am a middle school student and I am mainly learning web development.
+
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whiez)
-[![Instagram](https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/09_hyunwoo/)
-[![Facebook](https://img.shields.io/badge/Facebook-1DA1f2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079592343763)
-
-I'm a 15yo (17 in [Korean Age](https://en.wikipedia.org/wiki/East_Asian_age_reckoning)) student developer & designer.  
-Developing since 2019. (but deleted all repositories created that year 🫠)
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
