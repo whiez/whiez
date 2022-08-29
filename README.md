@@ -23,4 +23,4 @@ I am a middle school student and I am mainly learning web development.
 ## Stats
 ![solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiez)
 ![whiez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiez&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whiez&layout=compact)
