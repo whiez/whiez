@@ -20,7 +20,7 @@ I am a middle school student and I am mainly learning web development.
 ![macOS](https://img.shields.io/badge/macOS-0a5efc?style=for-the-badge&logo=macos&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<!-- ## Stats
+## Stats
 ![solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiez)
-![David Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thoratica&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica&layout=compact) -->
+![whiez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiez&count_private=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thoratica&layout=compact)
