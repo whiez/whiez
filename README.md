@@ -21,6 +21,6 @@ I am a middle school student and I am mainly learning web development.
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiez)](https://solved.ac/whiez/)
+![solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=whiez)
 ![whiez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiez&count_private=true&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whiez&layout=compact)
