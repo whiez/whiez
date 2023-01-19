@@ -1,8 +1,7 @@
 # 👋 Hi There!
 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whiez)
-[![Facebook](https://img.shields.io/badge/Facebook-1DA1f2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079592343763)
-[![Instagram](https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/09_hyunwoo/)
+[![Facebook](https://img.shields.io/badge/Facebook-1DA1f2.svg?style=for-the-badge&logo=facebook&logoColor=white)]
 
 I am a middle school student and I am mainly learning web development.
 
