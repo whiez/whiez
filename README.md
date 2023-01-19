@@ -1,7 +1,6 @@
 # 👋 Hi There!
 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whiez)
-[![Facebook](https://img.shields.io/badge/Facebook-1DA1f2.svg?style=for-the-badge&logo=facebook&logoColor=white)]
 
 I am a middle school student and I am mainly learning web development.
 
